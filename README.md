@@ -1,2 +1,3 @@
 # Hello-smallworld
-just another pepository
+Hi human !
+about me here, I want become IT security and imporve general Knowladge
